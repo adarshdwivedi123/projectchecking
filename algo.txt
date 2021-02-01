@@ -1,0 +1,6 @@
+step 1:Load the cascade
+step 2:Read the input image
+step 3:Convert into grayscale
+step 4:Detect faces
+step 5:Draw rectangle around the faces
+step 6:Display the output
